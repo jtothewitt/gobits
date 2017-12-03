@@ -5,7 +5,8 @@ font-family: 'Comfortaa', cursive;
 font-size: 17px;
 text-align: center;
 padding-top: 0px;
-padding-bottom: 0px;  
+margin-bottom: 0px; 
+position: fixed;  
 }
 
 #headliner {color:#fc846b;
