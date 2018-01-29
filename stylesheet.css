@@ -27,3 +27,7 @@ left:0;
 right:0;
 height:30px;
 }
+DIV.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle }
