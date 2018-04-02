@@ -28,6 +28,13 @@ right:0;
 height:30px;
 }
 
+body {
+  background-color: #f0f0f0;
+  font-family: Comfortaa;
+  min-height: 100%;
+  display: flex;
+  flex-direction: 1;
+}
 .gobits_box {
 position:absolute; 
 bottom:0;
