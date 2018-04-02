@@ -57,3 +57,9 @@ padding:1rem 2rem}
      align-items:center;
      justify-content:center
 }
+
+#level.3.box {
+     font-size:3rem;
+     width:80%;
+     transition:transform .5s,margin .5s
+}
