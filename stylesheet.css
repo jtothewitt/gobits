@@ -31,6 +31,8 @@ right:0;
 height:30px;
 }
 
+.footer {height:2rem;width:100%}
+
 .gobits_box {
 position:absolute; 
 bottom:0;
