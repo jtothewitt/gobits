@@ -88,3 +88,49 @@ font-family: Comfortaa;}
                 flex: 1;
             }
        
+/*button deets*/
+.lets-gobit-btn {
+  background-color: #fc846b;
+  color: white;
+  padding: 13px 25px;
+  border-radius: 100px 100px 100px 100px;
+  text-align: center;
+  align: center;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* goal hopper css*/
+.goalStagnant {
+  color: #000000;
+  font-size: 50px;
+  text-align: left;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#goalHop {
+  color: #cdd0d5;
+  font-size: 50px;
+  text-align: right;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.goalBox {
+  display: block;
+  width: 100%;
+  padding-top: 160px;
+  text-decoration: none;
+  position: fixed;
+}
+.center-btn {
+  text-align: center;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
