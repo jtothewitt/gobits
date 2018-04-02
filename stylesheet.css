@@ -42,6 +42,12 @@ font-family: 'Comfortaa';
 color:#fc846b;
 padding:1rem 2rem}
 
+.loggyinny{
+  position:absolute;
+  top:1rem;
+  right:1rem;
+  z-indeX:99999}
+
 .slogan_box {
 position:absolute; 
 bottom:0;
