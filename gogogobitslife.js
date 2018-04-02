@@ -19,7 +19,7 @@ $(document).ready(function() {
 var words = [
     "be a gobit!",
     "run a 10k.",
-    "get a promotion",
+    "get a promotion.",
     "call mom more.",
     "travel to asia.",
     "learn to code.",
