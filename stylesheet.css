@@ -28,6 +28,15 @@ right:0;
 height:30px;
 }
 
+#gobits.to.the.left{
+     position:absolute;
+     bottom:0;
+     left:0;
+     font-size:2.5rem;
+     font-family:Comfortaa;
+     color:#fc846b;
+     padding:1rem 2rem}
+
 #slogan {position:absolute;
      bottom:0;
      right:0;
