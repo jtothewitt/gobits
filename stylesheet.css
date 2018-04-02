@@ -88,7 +88,7 @@ min-height:100%;
   background-color: #fc846b;
   color: white;
   padding: 13px 25px;
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 10px 10px 10px 10px;
   text-align: center;
   align: center;
   text-decoration: none;
@@ -130,3 +130,4 @@ a:link {
 a:hover {
   text-decoration: none;
 }
+
