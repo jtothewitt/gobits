@@ -19,8 +19,10 @@ $(document).ready(function() {
 var words = [
     "be a gobit!",
     "run a 10k.",
+    "get a promotion",
     "call mom more.",
-    "get a promotion.",
+    "travel to asia.",
+    "learn to code.",
     "buy a house."
   ],
   i = 0;
