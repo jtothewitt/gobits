@@ -29,7 +29,7 @@ var words = [
 
 setInterval(function() {
   // \/ \/ callback function
-  $("#hopper").fadeOut(600, function() {
+  $("#goalHop").fadeOut(600, function() {
     // if i = last index ? i = 0 else i++
     $(this)
       .text(words[i === words.length - 1 ? (i = 0) : (i += 1)])
