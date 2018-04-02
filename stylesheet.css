@@ -71,6 +71,12 @@ min-height:100%;
   font-family: Comfortaa;
   transition:transform .5s, margin .5s}
 
+.hopper{
+  color:#8d949e;
+  font-size:80%;
+  padding:11px 23px
+}
+
 /*button deets*/
 .lets-gobit-btn {
   background-color: #fc846b;
