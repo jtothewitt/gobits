@@ -28,39 +28,24 @@ right:0;
 height:30px;
 }
 
-#gobits.to.the.left {
-position:absolute;
+.gobits_box {
+position:absolute; 
 bottom:0;
 left:0;
-font-size:2.0rem;
+font-size:2.5rem;
 font-family:Comfortaa;
 color:#fc846b;
-padding:1rem 2rem
-}
+padding:1rem 2rem}
 
-#gobits.to.the.right {position:absolute;
-     bottom:0;
-     right:0;
-     font-size:1.8rem;
-     font-family:Comfortaa;
-     color:#fc846b;
-     padding:1rem 2rem
-}
+.slogan_box {
+position:absolute; 
+bottom:0;
+right:0;
+font-size:1.7rem;
+font-family:Comfortaa;
+color:#fc846b;
+padding:1rem 2rem}
 
-#level.1.box {
-     display:flex;
-     flex-direction:column;
-     min-height:100%;
-font-family: Comfortaa;}
-
-#level.2.box {
-     width:100%;
-     flex:1;
-     display:flex;
-     flex-direction:column;
-     align-items:center;
-     justify-content:center
-}
 
 /*button deets*/
 .lets-gobit-btn {
