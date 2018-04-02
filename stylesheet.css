@@ -59,7 +59,11 @@ min-height:100%
   display:flex;
   flex-direction:column;
   align-items:center;
-  justify-content:center;}
+  justify-content:center}
+.goalBoxdad{
+  font-size:3rem;
+  width:80%;
+  transition:transform .5s,margin .5s}
 
 /*button deets*/
 .lets-gobit-btn {
