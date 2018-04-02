@@ -90,12 +90,6 @@ min-height:100%;
   margin:.5rem
 }
 
-#hopper {
-  color:#8d949e;
-  font-size:80%;
-  padding:11px 23px
-}
-
 /*button deets*/
 .lets-gobit-btn {
   background-color: #fc846b;
@@ -125,7 +119,7 @@ min-height:100%;
 .goalBox {
   display: block;
   width: 100%;
-  font-family: Comfortaa;
+  font-family: 'Comfortaa';
   padding-top: 160px;
   text-decoration: none;
   position: fixed;
