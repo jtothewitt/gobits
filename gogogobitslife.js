@@ -29,10 +29,10 @@ var words = [
 
 setInterval(function() {
   // \/ \/ callback function
-  $("#goalHop").fadeOut(600, function() {
+  $("#goalHop").fadeOut(200, function() {
     // if i = last index ? i = 0 else i++
     $(this)
       .text(words[i === words.length - 1 ? (i = 0) : (i += 1)])
       .fadeIn(600);
   });
-}, 2700);
+}, 2300);
