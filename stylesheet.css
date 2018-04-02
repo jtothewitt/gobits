@@ -57,7 +57,8 @@ padding:1rem 2rem
 .outer_box {
 display:flex;
 flex-direction:column;
-min-height:100%
+min-height:100%;
+  font-family: Comfortaa;
 }
 
 .inner_box {
@@ -67,10 +68,12 @@ min-height:100%
   flex-direction:column;
   align-items:center;
   justify-content:center}
+
 .goalBoxdad{
   font-size:3rem;
   width:80%;
-  transition:transform .5s,margin .5s}
+  font-family: Comfortaa;
+  transition:transform .5s, margin .5s}
 
 /*button deets*/
 .lets-gobit-btn {
