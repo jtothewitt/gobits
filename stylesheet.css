@@ -95,6 +95,7 @@ min-height:100%;
 .lets-gobit-btn {
   background-color: #fc846b;
   color: white;
+  font-weight:bold;
   padding: 13px 25px;
   border-radius: 8px;
   text-align: center;
