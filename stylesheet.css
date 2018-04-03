@@ -92,40 +92,15 @@ min-height:100%;
 
 /*button deets*/
 .lets-gobit-btn {
-  background-color: #aee1e2;
+  background-color: #fc846b;
   color: white;
   padding: 13px 25px;
-  border-radius: 10px;
+  border-radius: 8px;
   text-align: center;
   align: center;
   text-decoration: none;
   font-size: 20px;
 }
-.lets-gobit-btn span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.lets-gobit-btn span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.lets-gobit-btn:hover span {
-  padding-right: 25px;
-}
-
-.lets-gobit-btn:hover span:after {
-  opacity: 1;
-  right: 0;
-}
-
 /* goal hopper css*/
 .goalStagnant {
   color: #000000;
