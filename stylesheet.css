@@ -87,6 +87,12 @@ min-height:100%;
   align-items:center;
   justify-content:center}
 
+.construction_narrative {
+font-size: 50px;
+padding-bottom: 10px;
+margin: auto;
+}
+
 .goalBoxdad{
   font-size:3rem;
   width:80%;
