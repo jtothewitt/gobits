@@ -79,7 +79,21 @@ min-height:100%;
   align-items:center;
   justify-content:center}
 
+.inner_box_howdy {
+  width:100%;
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center}
+
 .goalBoxdad{
+  font-size:3rem;
+  width:80%;
+  font-family: 'Comfortaa';
+  transition:transform .5s, margin .5s}
+
+.goalBox_howdy{
   font-size:3rem;
   width:80%;
   font-family: 'Comfortaa';
