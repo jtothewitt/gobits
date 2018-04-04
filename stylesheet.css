@@ -31,7 +31,8 @@ right:0;
 height:30px;
 }
 
-.footer {height:2rem;width:100%}
+.footer {height:2rem;
+  width:100%}
 
 .gobits_box {
 position:absolute; 
@@ -87,12 +88,6 @@ min-height:100%;
   align-items:center;
   justify-content:center}
 
-.construction_narrative {
-font-size: 30px;
-padding-bottom: 10px;
-margin: auto;
-}
-
 .goalBoxdad{
   font-size:3rem;
   width:80%;
@@ -103,7 +98,8 @@ margin: auto;
   font-size:2rem;
   width:60%;
   font-family: 'Comfortaa';
-  transition:transform .5s, margin .5s}
+  transition:transform .5s, margin .5s;
+padding-bottom:25px;}
 
 .splash-goals {
   position:relative;
